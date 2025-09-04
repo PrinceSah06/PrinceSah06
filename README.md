@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Prince 👋
 
-<!--
-**PrinceSah06/PrinceSah06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an *Intermediate Full-Stack Developer* passionate about building impactful web applications.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- *Frontend:* React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript (ES6+)
+- *Backend:* Node.js, Express.js, MongoDB, JWT, Multer, Cloudinary
+- *Other Tools:* Git, GitHub, Firebase, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [Netflix-GPT](https://github.com/PrinceSah06/Netflix-Gpt) – A Netflix-inspired app with GPT-powered recommendations.
+- [YouTube Clone](https://github.com/PrinceSah06/YoutubeClone) – YouTube-style app with real-time search suggestions & nested comments.
+- [Backend System](https://github.com/PrinceSah06) – Authentication, JWT, file handling, and scalable APIs.
+
+### 📫 Connect With Me
+- 📧 Email: sahp4088@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Link Here]
+- 🐙 GitHub: [github.com/PrinceSah06](https://github.com/PrinceSah06)
