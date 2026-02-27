@@ -1,92 +1,129 @@
 # 👋 Hi, I'm Prince Sah
 
-### Backend Engineer | Authentication Systems | Distributed Architecture
+### Full-Stack Developer | Backend Systems | Authentication & AI Integration
 
-I build production-style backend systems using modern runtimes and scalable architecture principles.
-
----
-
-## 🚀 About Me
-
-- 🔐 Focused on secure authentication systems (JWT, Redis, token rotation)
-- ⚡ Working with Bun & Hono for high-performance APIs
-- 🗄 Experienced in MongoDB schema design and indexing
-- 🐳 Comfortable with Dockerized infrastructure
-- 🧠 Learning distributed system design patterns
-
-I am currently building enterprise-style backend systems rather than simple CRUD applications.
+Punjab, India  
+📧 sahp4088@gmail.com  
+🔗 GitHub: https://github.com/PrinceSah06  
+🔗 LinkedIn: https://linkedin.com/in/prince-sah-271520322  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Professional Summary
 
-### Backend
-- Bun
-- Hono
+Full-Stack Developer specializing in scalable backend systems and production-ready architecture.  
+Strong expertise in MERN stack, JWT authentication systems, Redis-backed session management, and AI integration using OpenAI API.
+
+Focused on building secure, high-performance APIs using Bun, Hono.js, and TypeScript with clean architecture principles.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+
+### ⚙ Backend & Runtimes
 - Node.js
-- Express
+- Express.js
+- Bun
+- Hono.js
+- REST API Development
+- JWT Authentication
+- Middleware Architecture
 
-### Database & Cache
+### 🎨 Frontend
+- React.js
+- Next.js
+- Redux
+- Tailwind CSS
+- Responsive UI Design
+
+### 🗄 Databases
 - MongoDB
-- Valkey / Redis
+- MongoDB Atlas
+- Redis / Valkey
+- Vector Database Concepts
 
-### Authentication & Security
-- JWT (Access + Refresh Tokens)
-- Token rotation strategies
-- bcrypt password hashing
-- Role-Based Access Control (RBAC)
-
-### DevOps & Tools
-- Docker
+### 🤖 AI & Tools
+- OpenAI API
+- Socket.io
+- Firebase Authentication
 - Git & GitHub
 - Postman
+- Docker
+- Vercel
+
+---
+
+## 🔐 Featured Backend Project
+
+### 🔒 BestPracticeBackend
+
+High-performance authentication backend built using:
+
+- Bun + Hono.js
 - TypeScript (Strict Mode)
-
----
-
-## 🔐 Featured Project
-
-### 🔒 SecureServer – Production-Grade Auth Platform
-
-A scalable authentication backend implementing:
-
-- Short-lived access tokens
+- MongoDB
 - Redis-backed refresh token storage
-- Token expiration with TTL
-- Dockerized MongoDB & Valkey setup
-- Clean architecture separation
+- JWT Access & Refresh token architecture
+- Dockerized infrastructure
 
-> Designed to simulate real-world backend engineering practices.
+Designed following real-world authentication flow:
+- Short-lived access tokens
+- Long-lived refresh tokens with TTL
+- Redis session invalidation
+- Secure password hashing
 
 ---
 
-## 📈 What I’m Currently Improving
+## 🤖 AI Agent Collaboration Platform
 
-- Refresh token rotation
-- Advanced Redis patterns
-- API rate limiting strategies
-- Backend performance optimization
-- Clean architecture refinement
+Real-time AI chat system built with:
+
+- MERN Stack
+- OpenAI API integration
+- Socket.io for real-time communication
+- Firebase secure authentication
+
+Focused on scalable architecture and clean state management.
+
+---
+
+## 🎬 Netflix-Style Streaming App
+
+Full-stack content platform built using MERN:
+
+- Dynamic routing
+- RESTful APIs
+- Scalable MongoDB schema
+- Responsive frontend with React
+
+---
+
+## 📈 Currently Improving
+
+- Refresh Token Rotation Strategies
+- Advanced Redis Patterns
+- Role-Based Access Control (RBAC)
+- Backend Performance Optimization
+- Distributed System Fundamentals
 
 ---
 
 ## 🎯 Career Focus
 
-I aim to work on backend systems where performance, security, and architecture matter.
+I aim to work on backend systems where:
 
-Interested in:
+- Security matters  
+- Performance matters  
+- Architecture matters  
 
-- Backend Engineering Roles
-- API Platform Development
-- Authentication & Identity Systems
-
----
-
-## 📬 Connect With Me
-
-- LinkedIn: (add your link)
-- Email: (add professional email)
+Interested in Backend Engineering, API Platform Development, and Identity/Auth systems.
 
 ---
 
-⭐ I believe in building systems that are secure, scalable, and production-ready.
+⭐ I build systems that are secure, scalable, and production-ready.
