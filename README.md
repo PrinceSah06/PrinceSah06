@@ -1,129 +1,121 @@
 # 👋 Hi, I'm Prince Sah
 
-### Full-Stack Developer | Backend Systems | Authentication & AI Integration
+### Full-Stack Developer | Scalable Web Applications | Secure Backend Systems
 
-Punjab, India  
+📍 Punjab, India  
 📧 sahp4088@gmail.com  
 🔗 GitHub: https://github.com/PrinceSah06  
 🔗 LinkedIn: https://linkedin.com/in/prince-sah-271520322  
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Full-Stack Developer specializing in scalable backend systems and production-ready architecture.  
-Strong expertise in MERN stack, JWT authentication systems, Redis-backed session management, and AI integration using OpenAI API.
+I am a Full-Stack Developer who builds scalable web applications with a strong focus on clean architecture, performance, and security.
 
-Focused on building secure, high-performance APIs using Bun, Hono.js, and TypeScript with clean architecture principles.
+I specialize in:
+
+- Modern React-based frontend development
+- Secure backend API architecture
+- Authentication systems using JWT & Redis
+- Real-time and AI-powered applications
+
+I aim to build production-ready systems rather than simple CRUD applications.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-
-### ⚙ Backend & Runtimes
-- Node.js
-- Express.js
-- Bun
-- Hono.js
-- REST API Development
-- JWT Authentication
-- Middleware Architecture
-
-### 🎨 Frontend
+### 💻 Frontend
 - React.js
 - Next.js
 - Redux
 - Tailwind CSS
 - Responsive UI Design
+- Component-based Architecture
+- State Management Patterns
 
-### 🗄 Databases
+### ⚙ Backend
+- Node.js
+- Express.js
+- Bun
+- Hono.js
+- REST API Development
+- JWT Authentication (Access + Refresh Tokens)
+- Role-Based Access Control
+- Middleware Architecture
+
+### 🗄 Databases & Cache
 - MongoDB
 - MongoDB Atlas
 - Redis / Valkey
 - Vector Database Concepts
 
-### 🤖 AI & Tools
-- OpenAI API
+### 🤖 AI & Real-Time
+- OpenAI API Integration
 - Socket.io
 - Firebase Authentication
+
+### 🐳 DevOps & Tools
+- Docker
 - Git & GitHub
 - Postman
-- Docker
 - Vercel
+- TypeScript (Strict Mode)
 
 ---
 
-## 🔐 Featured Backend Project
+## 🔐 Featured Project – SecureServer
 
-### 🔒 BestPracticeBackend
-
-High-performance authentication backend built using:
+A production-style authentication backend built with:
 
 - Bun + Hono.js
-- TypeScript (Strict Mode)
+- TypeScript
 - MongoDB
 - Redis-backed refresh token storage
-- JWT Access & Refresh token architecture
 - Dockerized infrastructure
 
-Designed following real-world authentication flow:
+Implements:
+
 - Short-lived access tokens
 - Long-lived refresh tokens with TTL
-- Redis session invalidation
-- Secure password hashing
+- Redis-based session invalidation
+- Secure password hashing with bcrypt
 
 ---
 
-## 🤖 AI Agent Collaboration Platform
+## 🎬 Full-Stack Projects
 
-Real-time AI chat system built with:
+### 🤖 AI Agent Collaboration Platform
+Real-time AI-powered chat platform using MERN stack with OpenAI integration and secure Firebase authentication.
 
-- MERN Stack
-- OpenAI API integration
-- Socket.io for real-time communication
-- Firebase secure authentication
+### 🎥 Netflix-Style Streaming App
+Full-stack streaming platform with scalable REST APIs and dynamic React-based frontend.
 
-Focused on scalable architecture and clean state management.
-
----
-
-## 🎬 Netflix-Style Streaming App
-
-Full-stack content platform built using MERN:
-
-- Dynamic routing
-- RESTful APIs
-- Scalable MongoDB schema
-- Responsive frontend with React
+### 📊 Audience Query System
+Aggregated multiple APIs with optimized backend logic and responsive UI architecture.
 
 ---
 
 ## 📈 Currently Improving
 
-- Refresh Token Rotation Strategies
+- Refresh Token Rotation
 - Advanced Redis Patterns
-- Role-Based Access Control (RBAC)
+- Clean Architecture Principles
 - Backend Performance Optimization
-- Distributed System Fundamentals
+- Distributed Systems Fundamentals
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Goal
 
-I aim to work on backend systems where:
+To work on full-stack systems where frontend experience and backend architecture are equally important.
 
-- Security matters  
-- Performance matters  
-- Architecture matters  
-
-Interested in Backend Engineering, API Platform Development, and Identity/Auth systems.
+I enjoy building applications where:
+- UI is smooth and responsive
+- APIs are secure and scalable
+- Architecture is clean and maintainable
 
 ---
 
-⭐ I build systems that are secure, scalable, and production-ready.
+⭐ I build applications that are functional, scalable, and production-ready.
