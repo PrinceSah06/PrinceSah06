@@ -1,121 +1,90 @@
-# 👋 Hi, I'm Prince Sah
+# Hi, I'm Prince Sah
 
-### Full-Stack Developer | Scalable Web Applications | Secure Backend Systems
+Full-stack developer focused on secure backend systems, real-time apps, and modern frontend experiences.
 
-📍 Punjab, India  
-📧 sahp4088@gmail.com  
-🔗 GitHub: https://github.com/PrinceSah06  
-🔗 LinkedIn: https://linkedin.com/in/prince-sah-271520322  
+- Location: Punjab, India
+- Email: `sahp4088@gmail.com`
+- GitHub: [PrinceSah06](https://github.com/PrinceSah06)
+- LinkedIn: [prince-sah-271520322](https://linkedin.com/in/prince-sah-271520322)
 
----
+## About Me
 
-## 🚀 About Me
+I enjoy building projects where the frontend feels smooth, the backend is structured well, and the product can scale beyond a basic demo.
 
-I am a Full-Stack Developer who builds scalable web applications with a strong focus on clean architecture, performance, and security.
+My recent work includes:
 
-I specialize in:
+- authentication-first backend systems with JWT, Redis, and MongoDB
+- real-time apps using Socket.IO and WebRTC-style communication
+- AI-assisted products using OpenAI and Google Gemini integrations
+- React, Vite, and Next.js interfaces with reusable UI patterns
 
-- Modern React-based frontend development
-- Secure backend API architecture
-- Authentication systems using JWT & Redis
-- Real-time and AI-powered applications
+## Core Stack
 
-I aim to build production-ready systems rather than simple CRUD applications.
+- Frontend: React, Next.js, Vite, Tailwind CSS, Redux Toolkit, TypeScript
+- Backend: Node.js, Express, Bun, Hono, REST APIs, JWT auth
+- Data: MongoDB, PostgreSQL, Redis, Drizzle ORM
+- AI and real-time: OpenAI, Google Gemini, Socket.IO, PeerJS
+- Tools: Docker, Git, GitHub, Postman, Vercel
 
----
+## Featured Projects
 
-## 🛠 Tech Stack
+### Secure Backend Architecture
 
-### 💻 Frontend
-- React.js
-- Next.js
-- Redux
-- Tailwind CSS
-- Responsive UI Design
-- Component-based Architecture
-- State Management Patterns
+[`bestPracticeBackend`](https://github.com/PrinceSah06/bestPracticeBackend)
 
-### ⚙ Backend
-- Node.js
-- Express.js
-- Bun
-- Hono.js
-- REST API Development
-- JWT Authentication (Access + Refresh Tokens)
-- Role-Based Access Control
-- Middleware Architecture
+Production-oriented backend work using Bun, Hono, MongoDB, Redis, Docker, and TypeScript with a strong focus on auth and session security.
 
-### 🗄 Databases & Cache
-- MongoDB
-- MongoDB Atlas
-- Redis / Valkey
-- Vector Database Concepts
+### AI Collaboration Platform
 
-### 🤖 AI & Real-Time
-- OpenAI API Integration
-- Socket.io
-- Firebase Authentication
+[`ai-agent-collab-frontend`](https://github.com/PrinceSah06/ai-agent-collab-frontend)
 
-### 🐳 DevOps & Tools
-- Docker
-- Git & GitHub
-- Postman
-- Vercel
-- TypeScript (Strict Mode)
+Frontend for a collaborative AI workflow platform built with React, Tailwind CSS, Socket.IO, and WebContainers.
 
----
+### Feedback Platform
 
-## 🔐 Featured Project – SecureServer
+[`Nextjs_TrueFeedBack`](https://github.com/PrinceSah06/Nextjs_TrueFeedBack)
 
-A production-style authentication backend built with:
+Next.js app with authentication, email workflows, AI SDK usage, and a more product-style full-stack structure.
 
-- Bun + Hono.js
-- TypeScript
-- MongoDB
-- Redis-backed refresh token storage
-- Dockerized infrastructure
+### Real-Time Communication
 
-Implements:
+[`Video-call-Frontend`](https://github.com/PrinceSah06/Video-call-Frontend)
+and
+[`Video-call-backend`](https://github.com/PrinceSah06/Video-call-backend)
 
-- Short-lived access tokens
-- Long-lived refresh tokens with TTL
-- Redis-based session invalidation
-- Secure password hashing with bcrypt
+Video calling stack using React, Socket.IO, PeerJS, Express, and TypeScript.
 
----
+### AI Chat And Code Tools
 
-## 🎬 Full-Stack Projects
+[`ChatAppWithAI_Frontend`](https://github.com/PrinceSah06/ChatAppWithAI_Frontend),
+[`ChatAppWithAI_backend`](https://github.com/PrinceSah06/ChatAppWithAI_backend),
+and
+[`Code_Editer`](https://github.com/PrinceSah06/Code_Editer)
 
-### 🤖 AI Agent Collaboration Platform
-Real-time AI-powered chat platform using MERN stack with OpenAI integration and secure Firebase authentication.
+Projects exploring AI chat, code editing workflows, real-time communication, and full-stack application structure.
 
-### 🎥 Netflix-Style Streaming App
-Full-stack streaming platform with scalable REST APIs and dynamic React-based frontend.
+## What I Care About
 
-### 📊 Audience Query System
-Aggregated multiple APIs with optimized backend logic and responsive UI architecture.
+- clean project structure
+- secure handling of auth and secrets
+- APIs that are maintainable and easy to extend
+- frontend work that feels polished, not just functional
+- building portfolio projects that look closer to real products
 
----
+## Current Focus
 
-## 📈 Currently Improving
+- strengthening backend architecture and security patterns
+- improving system design and database modeling
+- building better portfolio-quality full-stack apps
+- writing cleaner documentation across projects
 
-- Refresh Token Rotation
-- Advanced Redis Patterns
-- Clean Architecture Principles
-- Backend Performance Optimization
-- Distributed Systems Fundamentals
+## Repository Guide
 
----
+If you want to explore my work quickly, start here:
 
-## 🎯 Career Goal
+- backend focus: [`bestPracticeBackend`](https://github.com/PrinceSah06/bestPracticeBackend)
+- full-stack product feel: [`Nextjs_TrueFeedBack`](https://github.com/PrinceSah06/Nextjs_TrueFeedBack)
+- AI + real-time: [`ai-agent-collab-frontend`](https://github.com/PrinceSah06/ai-agent-collab-frontend)
+- communication apps: [`Video-call-Frontend`](https://github.com/PrinceSah06/Video-call-Frontend)
 
-To work on full-stack systems where frontend experience and backend architecture are equally important.
-
-I enjoy building applications where:
-- UI is smooth and responsive
-- APIs are secure and scalable
-- Architecture is clean and maintainable
-
----
-
-⭐ I build applications that are functional, scalable, and production-ready.
+I’m actively refining older repositories by removing sensitive files, standardizing setup, and improving documentation.
