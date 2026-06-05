@@ -79,9 +79,12 @@ Self-taught Full-Stack Developer with hands-on experience architecting and shipp
 - Architected a production-grade REST API authentication backend using Bun + Hono.js with JWT refresh token rotation, Redis TTL-based session invalidation, and role-based access control (RBAC).
 - Enforced TypeScript strict mode and Clean Architecture with fully separated layers; containerized with Docker Compose for reproducible deployments.
 
-### 🔍 [Focus AI](https://focus-ai-nextjs.vercel.app/)
+### 🔍 [Focus AI — Productivity & AI Scheduling App](https://focus-ai-nextjs.vercel.app/)
+*Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma ORM • Zustand • JWT Auth*
 - **Live Demo:** [focus-ai-nextjs.vercel.app](https://focus-ai-nextjs.vercel.app/)
-- AI-integrated productivity application built with Next.js.
+- Developed a comprehensive productivity application featuring daily schedules with AI-generated summaries, task tracking (priority, status, effort), and daily logs.
+- Engineered a robust authentication system using JWT access tokens, refresh token rotation (SHA-256 hashed in DB), and `httpOnly` secure cookies.
+- Implemented frontend state management using **Zustand** stores for auth and task handling, integrated seamlessly with a custom Next.js route guard proxy.
 
 ---
 
