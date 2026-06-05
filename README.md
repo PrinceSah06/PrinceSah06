@@ -23,7 +23,7 @@
 <br>
 
 ## 🚀 About Me
-Self-taught Full-Stack Developer with hands-on experience architecting and shipping **22+ production-grade applications** using the MERN stack, real-time systems, and AI integrations. Proficient in building secure REST APIs, multi-tenant SaaS backends, and event-driven architectures with Redis and BullMQ. 
+Self-taught Full-Stack Developer with hands-on experience architecting and shipping production-grade applications using the MERN stack, real-time systems, and AI integrations. Proficient in building secure REST APIs, multi-tenant SaaS backends, and event-driven architectures with Redis and BullMQ. 
 
 - 🔭 I’m currently building **TeamFlow** — a multi-tenant real-time collaborative notes platform.
 - 🌱 I’m currently learning **Distributed Systems, Advanced Redis, and Computer Vision**.
