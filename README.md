@@ -68,7 +68,7 @@ Self-taught Full-Stack Developer with hands-on experience architecting and shipp
 - Implemented JWT refresh token rotation with httpOnly cookies, RBAC middleware (Owner/Admin/Member), and a cryptographic invite-token system.
 - Engineered Socket.io rooms keyed by `org_id` for authenticated real-time synchronization; offloaded async DB writes to BullMQ + Redis queues, achieving ~10ms API response times.
 
-### 🧠 [AI Code Editor — Collaborative Browser-Based IDE](https://chat-app-with-ai-frontend.vercel.app/)
+### 🧠 [AI Code Editor — Collaborative Browser-Based IDE](https://github.com/PrinceSah06/ChatAppWithAI_Frontend)
 *React • Monaco Editor • Node.js • Express • MongoDB • Socket.io • Groq API • Gemini API*
 - **Live Demo:** [code-editer-h8nt.vercel.app](https://code-editer-h8nt.vercel.app/) | [chat-app-with-ai-frontend.vercel.app](https://chat-app-with-ai-frontend.vercel.app/)
 - Built a full-stack browser-based code editor using Monaco Editor with real-time multi-user collaboration via Socket.io and AI-powered code suggestions.
