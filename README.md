@@ -1,90 +1,73 @@
-# Hi, I'm Prince Sah
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Prince%20Sah&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
-Full-stack developer focused on secure backend systems, real-time apps, and modern frontend experiences.
+  <h3 align="center">A passionate Full-Stack Developer creating beautiful, scalable, and modern applications.</h3>
 
-- Location: Punjab, India
-- Email: `sahp4088@gmail.com`
-- GitHub: [PrinceSah06](https://github.com/PrinceSah06)
-- LinkedIn: [prince-sah-271520322](https://linkedin.com/in/prince-sah-271520322)
+  <p align="center">
+    <a href="https://github.com/PrinceSah06"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Apps;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  </p>
 
-## About Me
+  <p align="center">
+    <a href="https://github.com/PrinceSah06" target="_blank">
+      <img src="https://img.shields.io/github/followers/PrinceSah06?logo=github&style=for-the-badge&color=2ecc71&labelColor=2c3e50" alt="GitHub followers" />
+    </a>
+  </p>
+</div>
 
-I enjoy building projects where the frontend feels smooth, the backend is structured well, and the product can scale beyond a basic demo.
+<br>
 
-My recent work includes:
+## 🚀 About Me
 
-- authentication-first backend systems with JWT, Redis, and MongoDB
-- real-time apps using Socket.IO and WebRTC-style communication
-- AI-assisted products using OpenAI and Google Gemini integrations
-- React, Vite, and Next.js interfaces with reusable UI patterns
+- 🔭 I’m currently working on **AI-powered collaborative web applications**
+- 🌱 I’m currently learning **Advanced Cloud Architecture & DevOps**
+- 💬 Ask me about **React, Node.js, and Modern Web Development**
+- 📫 How to reach me: You can contact me via my repositories or GitHub!
+- ⚡ Fun fact: I love building tools that make development easier and more fun.
 
-## Core Stack
+---
 
-- Frontend: React, Next.js, Vite, Tailwind CSS, Redux Toolkit, TypeScript
-- Backend: Node.js, Express, Bun, Hono, REST APIs, JWT auth
-- Data: MongoDB, PostgreSQL, Redis, Drizzle ORM
-- AI and real-time: OpenAI, Google Gemini, Socket.IO, PeerJS
-- Tools: Docker, Git, GitHub, Postman, Vercel
+## 💻 Tech Stack & Tools
 
-## Featured Projects
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,nodejs,express,mongodb,redis,git,github,docker,vercel,figma" />
+  </a>
+</p>
 
-### Secure Backend Architecture
+---
 
-[`bestPracticeBackend`](https://github.com/PrinceSah06/bestPracticeBackend)
+## 🌟 Featured Projects
 
-Production-oriented backend work using Bun, Hono, MongoDB, Redis, Docker, and TypeScript with a strong focus on auth and session security.
+### 🛠️ [ChatAppWithAI](https://github.com/PrinceSah06/ChatAppWithAI_Frontend)
+A modern, real-time code collaboration workspace with integrated AI assistance.
+- **Frontend**: React, Vite, Tailwind CSS, WebContainers API.
+- **Backend**: Node.js, Express, MongoDB, Redis, Socket.io.
+- **AI Integration**: Powered by **Google Gemini 2.5 Flash** for explaining, writing, and refactoring code.
+- **Features**: Real-time collaborative coding, isolated browser environments, dark-mode glassmorphism UI.
 
-### AI Collaboration Platform
+<br>
 
-[`ai-agent-collab-frontend`](https://github.com/PrinceSah06/ai-agent-collab-frontend)
+*Check out my repositories below for more of my work!*
 
-Frontend for a collaborative AI workflow platform built with React, Tailwind CSS, Socket.IO, and WebContainers.
+---
 
-### Feedback Platform
+## 📈 GitHub Stats
 
-[`Nextjs_TrueFeedBack`](https://github.com/PrinceSah06/Nextjs_TrueFeedBack)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceSah06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PrinceSah06's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSah06&theme=tokyonight&hide_border=true&background=0D1117" alt="PrinceSah06's Streak" />
+</div>
 
-Next.js app with authentication, email workflows, AI SDK usage, and a more product-style full-stack structure.
+<br>
 
-### Real-Time Communication
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSah06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-[`Video-call-Frontend`](https://github.com/PrinceSah06/Video-call-Frontend)
-and
-[`Video-call-backend`](https://github.com/PrinceSah06/Video-call-backend)
+<br>
 
-Video calling stack using React, Socket.IO, PeerJS, Express, and TypeScript.
-
-### AI Chat And Code Tools
-
-[`ChatAppWithAI_Frontend`](https://github.com/PrinceSah06/ChatAppWithAI_Frontend),
-[`ChatAppWithAI_backend`](https://github.com/PrinceSah06/ChatAppWithAI_backend),
-and
-[`Code_Editer`](https://github.com/PrinceSah06/Code_Editer)
-
-Projects exploring AI chat, code editing workflows, real-time communication, and full-stack application structure.
-
-## What I Care About
-
-- clean project structure
-- secure handling of auth and secrets
-- APIs that are maintainable and easy to extend
-- frontend work that feels polished, not just functional
-- building portfolio projects that look closer to real products
-
-## Current Focus
-
-- strengthening backend architecture and security patterns
-- improving system design and database modeling
-- building better portfolio-quality full-stack apps
-- writing cleaner documentation across projects
-
-## Repository Guide
-
-If you want to explore my work quickly, start here:
-
-- backend focus: [`bestPracticeBackend`](https://github.com/PrinceSah06/bestPracticeBackend)
-- full-stack product feel: [`Nextjs_TrueFeedBack`](https://github.com/PrinceSah06/Nextjs_TrueFeedBack)
-- AI + real-time: [`ai-agent-collab-frontend`](https://github.com/PrinceSah06/ai-agent-collab-frontend)
-- communication apps: [`Video-call-Frontend`](https://github.com/PrinceSah06/Video-call-Frontend)
-
-I’m actively refining older repositories by removing sensitive files, standardizing setup, and improving documentation.
+---
+<div align="center">
+  <i>Visitors Count</i><br>
+  <img src="https://profile-counter.glitch.me/PrinceSah06/count.svg" />
+</div>
